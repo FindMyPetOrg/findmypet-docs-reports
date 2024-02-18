@@ -1,0 +1,9 @@
+Completed :
+-Successfully added User Private Messaging with backend and frontend integration, allowing seamless user-to-user communication.
+-Implemented a dark theme across the UI, aligning with the FindMyPet branding and user preferences for a dark mode interface.
+-Initiated the Serverless Framework for the ML project focused on animal image recognition, setting up essential AWS services.
+-Conducted research and development to identify a suitable ML model for pet classification, focusing on efficiency and accuracy.
+-Addressed and optimized performance issues related to the ML model, ensuring better memory management and faster data processing.
+-Enhanced admin user management and user profile functionalities on both backend and frontend, improving administrative capabilities.
+-Integrated advanced search functionalities for users and posts, improving the platform's usability.
+-Developed new features for post creation, viewing, and a dedicated search engine for posts, enriching the user experience on the platform.
