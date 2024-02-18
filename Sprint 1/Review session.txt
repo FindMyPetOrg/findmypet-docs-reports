@@ -1,0 +1,6 @@
+Completed :
+-Implementation of the Authentication Module using Laravel Breeze.
+-Integration of Social Authentication via Google with Laravel Socialite.
+-CRUD operations for user management within the API, including routes for individual user actions.
+-Functionality allowing users to update their profile photo.
+-Initial setup for the Posts API, including database migration and model creation.
